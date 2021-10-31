@@ -1,0 +1,7 @@
+Observable trends obtained from Linear Regression Plots: 
+
+  1. There is a decrease in temperature as the latitude moves further away from the equator. This is evidenced by the high correlation factor of the linear regression plotted for the temperature vs latitude (for both the northern and southern hemispheres). This can be explained by the decrease in sunlight exposure of each city located closer to the sun. 
+  
+  2. There is no real correlation in humidity and latitude. Both the northern and southern hemisphere scatter plots show low correlation coefficients between humidity and latitude. This is most likely due to humidity being due to more factors than just latitude such as atmospheric pressure or local weather conditions. 
+  
+  3. There is actually is small degree of relation between wind speed and latitude. Lower wind speeds are aggregated around values closer to 0 in both hemisphere plots. This is probably because the atmosphere closer to the equator is uniformly heated by the sun causing convection currents to move in the direction of the poles. This makes wind speed greater in higher latitudes. 
